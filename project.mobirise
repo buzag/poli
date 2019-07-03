@@ -31,16 +31,17 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.3",
     "siteFonts": [],
-    "uniqCompNum": 1,
+    "uniqCompNum": 2,
     "versionPublish": "4.9.3",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/polifav-128x128.png",
     "noImageResize": "",
-    "siteUrl": "undefined",
-    "google-analytics": "",
+    "siteUrl": "",
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-143236506-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-143236506-1');\r\n</script>\r\n",
     "cookiesAlert": "",
     "gdpr": "",
-    "сanonical-url": ""
+    "сanonical-url": "",
+    "sitemapSwitcherAuto": "on"
   },
   "pages": {
     "index.html": {
